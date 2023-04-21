@@ -88,11 +88,12 @@ We can be contacted via email at [alisonsjpark@gmail.com \(Alison\)](mailto:alis
 │   ├── dummy_vs_final.png
 │   ├── top_10_features.png
 │   └── vaccine.jpeg
+├── .gitignore
 ├── final_notebook.ipynb
-├── index_scratch.ipynb
 ├── LICENSE
-├── Phase3-flu_Classification_Alison_Park.pdf
-└── README.md
+├── Phase3-Flu_Classification-Alison_Park.pdf
+├── README.md
+└── index_scratch.ipynb
 ```
 
 
