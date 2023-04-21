@@ -42,7 +42,7 @@ This shows the dummy model, model that purely guesses the most frequent (no dise
 
 This graph shows the top 10 key features that is important to predict which patients will get the seasonal flu vaccine. I will be highlighting doctor's recommendation and age group (graphs are up in EDA section).
 
-![Doctor's Recommendation](images/doctor's recommendation.png)
+![Doctor's Recommendation](images/doctor_rec.png)
 
 For those who got a doctor's recommendation, 73.8% of the patients received a vaccine. This is a drastic difference to only 34.6% of patients receiving the vaccine when they did not get a doctor's recommendation. It seems to be that a doctor's recommendation is important in a patient's decision to receive the flu vaccine.
 
